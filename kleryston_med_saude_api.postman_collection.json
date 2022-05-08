@@ -798,13 +798,13 @@
 							}
 						],
 						"url": {
-							"raw": "{{baseURL}}/procedures/6",
+							"raw": "{{baseURL}}/procedures/2",
 							"host": [
 								"{{baseURL}}"
 							],
 							"path": [
 								"procedures",
-								"6"
+								"2"
 							]
 						}
 					},
